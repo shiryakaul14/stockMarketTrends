@@ -1,2 +1,3 @@
-# stockMarketTrends
-Prediction of Stock Market Py
+# stock-market-analysis-EDA
+
+
